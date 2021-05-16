@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillSplitApp", "BillSplitApp\BillSplitApp.csproj", "{2A3510AF-4BA0-4199-8C23-C03DD5E061B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillSplitTests", "BillSplitTests\BillSplitTests.csproj", "{2817DA3B-C7CB-49FF-A827-D397E22C07CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3510AF-4BA0-4199-8C23-C03DD5E061B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3510AF-4BA0-4199-8C23-C03DD5E061B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3510AF-4BA0-4199-8C23-C03DD5E061B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3510AF-4BA0-4199-8C23-C03DD5E061B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2817DA3B-C7CB-49FF-A827-D397E22C07CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2817DA3B-C7CB-49FF-A827-D397E22C07CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2817DA3B-C7CB-49FF-A827-D397E22C07CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2817DA3B-C7CB-49FF-A827-D397E22C07CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FC2916D-DFB2-4337-9E95-720B4F2F3FDB}
+	EndGlobalSection
+EndGlobal
